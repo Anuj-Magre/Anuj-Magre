@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Anuj Magre
 
-<!--
-**Anuj-Magre/Anuj-Magre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst | Python | SQL | Excel | Power BI**
 
-Here are some ideas to get you started:
+I transform raw data into meaningful business insights through data analysis, visualization, and storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 📊 Passionate about Data Analytics & Business Insights
+* 🐍 Skilled in Python (Pandas, NumPy)
+* 🗄️ SQL for data querying & analysis
+* 📈 Dashboard development using Power BI & Excel
+* 📍 Based in India
+* 🌱 Currently building End-to-End Analytics Projects
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Tools**
+
+* Python
+* SQL (MySQL)
+* Excel
+* Power BI
+* Pandas
+* Matplotlib
+* Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Sales Performance Dashboard
+
+* Built interactive dashboard analyzing sales KPIs
+* Identified revenue trends & regional performance
+* Tools: Power BI, Excel, SQL
+
+### 📉 Customer Churn Analysis
+
+* Performed EDA & churn pattern analysis
+* Generated business recommendations
+* Tools: Python, Pandas, Visualization
+
+### 🏬 Retail Analytics Project
+
+* End-to-end analysis from raw data to dashboard
+* Data cleaning → SQL → Visualization
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj-Magre\&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [(Add your LinkedIn link)](https://www.linkedin.com/in/anujmagre/)
+* Email: [anujmagre77@gmail.com](mailto:anujmagre77@gmail.com)
+
+---
+
+⭐ *Always learning. Always building.*
