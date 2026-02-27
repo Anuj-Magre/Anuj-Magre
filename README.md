@@ -60,7 +60,7 @@ I transform raw data into meaningful business insights through data analysis, vi
 
 ## 📫 Connect With Me
 
-* LinkedIn: [(Add your LinkedIn link)](https://www.linkedin.com/in/anujmagre/)
+* LinkedIn: https://www.linkedin.com/in/anujmagre/
 * Email: [anujmagre77@gmail.com](mailto:anujmagre77@gmail.com)
 
 ---
