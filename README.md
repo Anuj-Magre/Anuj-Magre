@@ -56,13 +56,36 @@ I transform raw data into meaningful business insights through data analysis, vi
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anuj-Magre&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anuj-Magre&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=Anuj-Magre&theme=tokyonight" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Anuj-Magre&theme=tokyonight" height="180"/>
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Magre&layout=compact&theme=tokyonight" width="40%" />
+<p align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anuj-Magre&layout=compact&theme=tokyonight" height="180"/>
+
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![Anuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anuj-Magre&theme=tokyo-night)](https://github.com/Anuj-Magre)
+
+
+---
+
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anuj-Magre&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</p>
 
 ---
 
