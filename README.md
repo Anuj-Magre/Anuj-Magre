@@ -50,29 +50,71 @@ I transform raw data into meaningful business insights through data analysis, vi
 
 ---
 
+
 ## 📂 Featured Projects
 
+### 🎬 Netflix Data Analysis (SQL)
+Analyzed Netflix Movies & TV Shows dataset using SQL to answer **15 real-world business questions** related to content distribution, ratings, actors, and countries.
 
-### 📊 Sales Performance Dashboard
+**Key Highlights**
+- Solved analytical business problems using SQL
+- Used advanced SQL concepts: Window Functions, JSON_TABLE, Subqueries
+- Performed genre, actor, and country-level content analysis
 
-* Built interactive dashboard analyzing sales KPIs
-* Identified revenue trends and regional performance
-* Tools: **Power BI, Excel, SQL**
-* 🔗 Repository: (Add GitHub link)
+**Tools:** MySQL, SQL, Kaggle Dataset  
+🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/SQL-Data-Analytics/tree/main/netflix-sql-data-analysis)
 
-### 📉 Customer Churn Analysis
+---
 
-* Performed EDA to identify churn patterns
-* Generated insights for customer retention strategies
-* Tools: **Python, Pandas**
-* 🔗 Repository: (Add GitHub link)
+### ☕ Coffee Sales Analysis (Excel Dashboard)
+Developed an interactive **Excel dashboard** to analyze coffee shop sales transactions and identify key revenue drivers and customer purchasing patterns.
 
-### 🏬 Retail Analytics Project
+**Key Highlights**
+- Built KPI dashboard using Pivot Tables
+- Analyzed hourly sales patterns and product performance
+- Identified Pareto effect in product revenue contribution
 
-* End-to-end analysis from raw data to dashboard
-* Data cleaning → SQL analysis → visualization
-* Tools: **Python, SQL**
-* 🔗 Repository: (Add GitHub link)
+**Tools:** Excel, Pivot Tables, Data Cleaning  
+🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/Excel-Data-Analytics/tree/main/Coffee-Sales-Analysis)
+
+---
+
+### 🇮🇳 Indian Startup Funding Analysis
+Analyzed **Indian startup funding data (2015–2020)** to identify investment trends, leading investors, top industries, and funding concentration across cities.
+
+**Key Highlights**
+- Created interactive Excel dashboard with slicers
+- Identified funding peaks and industry dominance
+- Analyzed investor participation and funding ranges
+
+**Tools:** Excel, Pivot Tables, XLOOKUP, Data Cleaning  
+🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/Excel-Data-Analytics/tree/main/Indian-Startup-Funding-Analysis)
+
+---
+
+### 🛒 Blinkit Business Performance Analysis
+Performed sales performance analysis on Blinkit outlet data to identify **revenue drivers, outlet performance differences, and product-level contributions**.
+
+**Key Highlights**
+- Evaluated KPIs including total sales and customer ratings
+- Compared performance across outlet types and sizes
+- Identified product categories driving revenue
+
+**Tools:** Python, Pandas, NumPy, Matplotlib  
+🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/Exploratory-Data-Analysis-Projects/tree/main/blinkit-business-performance-analysis)
+
+---
+
+### 📦 E-Commerce Sales & Profit Analysis
+Conducted exploratory data analysis on e-commerce data to evaluate **sales trends, profitability patterns, and customer segment behavior**.
+
+**Key Highlights**
+- Analyzed monthly sales and profit trends
+- Identified high-performing categories and segments
+- Evaluated sales-to-profit ratios and yearly growth
+
+**Tools:** Python, Pandas, NumPy, Matplotlib  
+🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/Exploratory-Data-Analysis-Projects/tree/main/ecommerce-sales-profit-analysis)
 
 
 ---
