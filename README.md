@@ -8,47 +8,63 @@ I transform raw data into meaningful business insights through data analysis, vi
 
 ## 🚀 About Me
 
-* 📊 Passionate about Data Analytics & Business Insights
-* 🐍 Skilled in Python (Pandas, NumPy)
-* 🗄️ SQL for data querying & analysis
-* 📈 Dashboard development using Power BI & Excel
+* 📊 Aspiring **Data Analyst passionate about solving business problems with data**
+* 🐍 Experienced in **Python for data analysis (Pandas, NumPy)**
+* 🗄️ Strong foundation in **SQL for querying and data transformation**
+* 📈 Skilled in **building dashboards using Power BI and Excel**
+* 🔍 Interested in **exploratory data analysis and business insights**
+* 🌱 Currently building **end-to-end analytics projects**
 * 📍 Based in India
-* 🌱 Currently building End-to-End Analytics Projects
+
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages & Tools**
+**Programming & Data Analysis**
 
-* Python
+* Python (Pandas, NumPy)
 * SQL (MySQL)
-* Excel
+
+**Data Visualization**
+
 * Power BI
-* Pandas
+* Tableau
+* Excel
 * Matplotlib
-* Git & GitHub
+
+**Tools**
+
+* Git
+* GitHub
+
 
 ---
 
 ## 📂 Featured Projects
 
+
 ### 📊 Sales Performance Dashboard
 
 * Built interactive dashboard analyzing sales KPIs
-* Identified revenue trends & regional performance
-* Tools: Power BI, Excel, SQL
+* Identified revenue trends and regional performance
+* Tools: **Power BI, Excel, SQL**
+* 🔗 Repository: (Add GitHub link)
 
 ### 📉 Customer Churn Analysis
 
-* Performed EDA & churn pattern analysis
-* Generated business recommendations
-* Tools: Python, Pandas, Visualization
+* Performed EDA to identify churn patterns
+* Generated insights for customer retention strategies
+* Tools: **Python, Pandas**
+* 🔗 Repository: (Add GitHub link)
 
 ### 🏬 Retail Analytics Project
 
 * End-to-end analysis from raw data to dashboard
-* Data cleaning → SQL → Visualization
+* Data cleaning → SQL analysis → visualization
+* Tools: **Python, SQL**
+* 🔗 Repository: (Add GitHub link)
+
 
 ---
 
