@@ -56,11 +56,23 @@ I transform raw data into meaningful business insights through data analysis, vi
 
 ## 📊 GitHub Stats
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anuj-Magre&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anuj-Magre&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Magre&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=Anuj-Magre&show_icons=true&theme=tokyonight" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=Anuj-Magre&theme=tokyonight" height="180"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Magre&layout=compact&theme=tokyonight" height="180"/>
+
+</p>
+
+
 ---
 
 ## 📫 Connect With Me
