@@ -10,7 +10,7 @@ Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau | Data Visuali
 </h3>
 
 <p align="center">
-I transform raw data into meaningful business insights through data analysis, visualization, and storytelling.
+I transform raw data into actionable business insights using data analysis, visualization, and storytelling.
 </p>
 
 ---
