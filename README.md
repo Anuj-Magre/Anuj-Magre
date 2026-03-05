@@ -1,14 +1,23 @@
-# Hi 👋, I'm Anuj Magre
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Data+Visualization+and+Analytics;Always+Learning+New+Things&center=true&width=650&height=45">
+</p>
 
-🎯 **Aspiring Data Analyst | Python | SQL | Excel | Power BI**
+---
+<h1 align="center">Hi 👋, I'm Anuj Magre</h1>
 
+<h3 align="center">
+Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau | Data Visualization
+</h3>
+
+<p align="center">
 I transform raw data into meaningful business insights through data analysis, visualization, and storytelling.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 📊 Aspiring **Data Analyst passionate about solving business problems with data**
+* 📊 Aspiring **Data Analyst focused on solving business problems using data-driven insights**
 * 🐍 Experienced in **Python for data analysis (Pandas, NumPy)**
 * 🗄️ Strong foundation in **SQL for querying and data transformation**
 * 📈 Skilled in **building dashboards using Power BI and Excel**
