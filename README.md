@@ -53,6 +53,24 @@ I transform raw data into actionable business insights using data analysis, visu
 
 ## 📂 Featured Projects
 
+### 📊 Retail Financial Performance Dashboard (Power BI + SQL)
+Built a **multi-page business intelligence dashboard** analyzing retail financial performance from **2014–2017**, designed to simulate executive-level reporting used by leadership teams.
+
+The dashboard provides insights into **revenue growth, profitability drivers, regional performance, customer concentration risk, and growth momentum**.
+
+**Key Highlights**
+- Developed a **multi-page interactive Power BI dashboard**
+- Performed **financial KPI analysis** including Revenue, Profit, Margin %, and YoY Growth
+- Identified **margin leakage caused by discounting**
+- Conducted **regional performance benchmarking**
+- Built **customer revenue concentration and profitability analysis**
+
+**Tools:** Power BI, DAX, SQL, MySQL  
+
+🔗 Repository:  [(Click to Open)](https://github.com/Anuj-Magre/Retail-Financial-Performance-Dashboard)
+
+---
+
 ### 🎬 Netflix Data Analysis (SQL)
 Analyzed Netflix Movies & TV Shows dataset using SQL to answer **15 real-world business questions** related to content distribution, ratings, actors, and countries.
 
