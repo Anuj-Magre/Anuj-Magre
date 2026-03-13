@@ -71,6 +71,24 @@ The dashboard provides insights into **revenue growth, profitability drivers, re
 
 ---
 
+### 🛒 Amazon USA Sales Analysis (SQL)
+
+Analyzed an **Amazon-style e-commerce dataset containing 20,000+ transactions** to solve real-world business problems related to sales performance, customer behavior, inventory management, and logistics using SQL.
+
+**Key Highlights**
+
+- Designed a normalized relational database schema
+- Solved **19 real-world e-commerce analytical problems**
+- Performed revenue analysis, customer lifetime value (CLTV), and product profitability analysis
+- Identified shipping delays, inventory shortages, and seller performance patterns
+- Applied advanced SQL techniques including **Window Functions, Subqueries, Ranking Functions, and Aggregations**
+
+**Tools:** MySQL, SQL, Data Analysis
+
+🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/SQL-Data-Analytics/tree/main/amazon-sql-data-analysis)
+
+---
+
 ### 🎬 Netflix Data Analysis (SQL)
 Analyzed Netflix Movies & TV Shows dataset using SQL to answer **15 real-world business questions** related to content distribution, ratings, actors, and countries.
 
