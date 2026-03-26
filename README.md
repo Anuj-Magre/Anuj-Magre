@@ -70,7 +70,8 @@ The project simulates real-world business scenarios and focuses on understanding
 
 **Tools:** Python, SQL (MySQL), Power BI, Pandas, Matplotlib
 
-🏅 **Certified Project (PrepInsta)**
+**🏅 Certified Project (PrepInsta)**  
+📄 [View Certificate](certificate/prepinsta_certificate.pdf)
 
 🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/american-express-churn-analysis)
 
