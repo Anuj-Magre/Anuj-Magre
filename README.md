@@ -53,6 +53,29 @@ I transform raw data into actionable business insights using data analysis, visu
 
 ## 📂 Featured Projects
 
+### 💳 American Express Customer Churn Analysis (Python + SQL + Power BI)
+
+Built an **end-to-end customer churn analysis project** to identify key drivers of customer attrition and provide actionable business insights using Python, SQL, and Power BI.
+
+The project simulates real-world business scenarios and focuses on understanding customer behavior, financial patterns, and engagement metrics affecting churn.
+
+**Key Highlights**
+
+* Performed **Exploratory Data Analysis (EDA)** using Python (Pandas, Matplotlib, Seaborn)
+* Cleaned and transformed raw data to prepare for analysis
+* Developed **SQL queries** to analyze churn patterns and segment high-risk customers
+* Built a **multi-page interactive Power BI dashboard** for business insights
+* Identified key churn drivers such as **low engagement, fewer products, and high balance customers**
+* Created business recommendations to improve customer retention
+
+**Tools:** Python, SQL (MySQL), Power BI, Pandas, Matplotlib
+
+🏅 **Certified Project (PrepInsta)**
+
+🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/american-express-churn-analysis)
+
+---
+
 ### 📊 Retail Financial Performance Dashboard (Power BI + SQL)
 Built a **multi-page business intelligence dashboard** analyzing retail financial performance from **2014–2017**, designed to simulate executive-level reporting used by leadership teams.
 
@@ -89,19 +112,6 @@ Analyzed an **Amazon-style e-commerce dataset containing 20,000+ transactions** 
 
 ---
 
-### 🎬 Netflix Data Analysis (SQL)
-Analyzed Netflix Movies & TV Shows dataset using SQL to answer **15 real-world business questions** related to content distribution, ratings, actors, and countries.
-
-**Key Highlights**
-- Solved analytical business problems using SQL
-- Used advanced SQL concepts: Window Functions, JSON_TABLE, Subqueries
-- Performed genre, actor, and country-level content analysis
-
-**Tools:** MySQL, SQL, Kaggle Dataset  
-🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/SQL-Data-Analytics/tree/main/netflix-sql-data-analysis)
-
----
-
 ### ☕ Coffee Sales Analysis (Excel Dashboard)
 Developed an interactive **Excel dashboard** to analyze coffee shop sales transactions and identify key revenue drivers and customer purchasing patterns.
 
@@ -112,19 +122,6 @@ Developed an interactive **Excel dashboard** to analyze coffee shop sales transa
 
 **Tools:** Excel, Pivot Tables, Data Cleaning  
 🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/Excel-Data-Analytics/tree/main/Coffee-Sales-Analysis)
-
----
-
-### 🇮🇳 Indian Startup Funding Analysis
-Analyzed **Indian startup funding data (2015–2020)** to identify investment trends, leading investors, top industries, and funding concentration across cities.
-
-**Key Highlights**
-- Created interactive Excel dashboard with slicers
-- Identified funding peaks and industry dominance
-- Analyzed investor participation and funding ranges
-
-**Tools:** Excel, Pivot Tables, XLOOKUP, Data Cleaning  
-🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/Excel-Data-Analytics/tree/main/Indian-Startup-Funding-Analysis)
 
 ---
 
@@ -141,19 +138,6 @@ Performed sales performance analysis on Blinkit outlet data to identify **revenu
 
 ---
 
-### 📦 E-Commerce Sales & Profit Analysis
-Conducted exploratory data analysis on e-commerce data to evaluate **sales trends, profitability patterns, and customer segment behavior**.
-
-**Key Highlights**
-- Analyzed monthly sales and profit trends
-- Identified high-performing categories and segments
-- Evaluated sales-to-profit ratios and yearly growth
-
-**Tools:** Python, Pandas, NumPy, Matplotlib  
-🔗 Repository: [(Click to Open)](https://github.com/Anuj-Magre/Exploratory-Data-Analysis-Projects/tree/main/ecommerce-sales-profit-analysis)
-
-
----
 
 ## 📊 GitHub Stats
 
