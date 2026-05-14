@@ -150,11 +150,7 @@ Performed sales performance analysis on Blinkit outlet data to identify **revenu
 
 </p>
 
-<p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anuj-Magre&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
 
 ---
 
