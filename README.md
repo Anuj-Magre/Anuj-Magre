@@ -53,6 +53,25 @@ I transform raw data into actionable business insights using data analysis, visu
 
 ## 📂 Featured Projects
 
+### 🛡️ Insurance Risk & Claims Analytics Dashboard (Excel • Python • MySQL • Power BI)
+
+Developed an **end-to-end insurance analytics solution** to transform raw policy, claims, customer, and agent data into actionable business insights. The project covers the complete analytics lifecycle, including **data validation, SQL analysis, statistical testing, forecasting, and interactive Power BI dashboards**.
+
+**Key Highlights**
+
+- Built an end-to-end analytics pipeline using **Excel → Python → MySQL → Power BI**
+- Cleaned and integrated **6,800+ records** across five interconnected datasets
+- Performed feature engineering, EDA, and statistical testing using **Python (Pandas, SciPy)**
+- Designed a **7-page interactive Power BI dashboard** for executive reporting
+- Analyzed fraud exposure, customer risk, regional performance, and agent productivity
+- Developed forecasting models to support claim volume planning and business decisions
+
+**Tools:** Excel, Python, Pandas, NumPy, SciPy, MySQL, Power BI, DAX
+
+🔗 Repository: ([Click to Open](https://github.com/Anuj-Magre/insurance-risk-claims-analytics))
+
+---
+
 ### 💳 American Express Customer Churn Analysis (Python + SQL + Power BI)
 
 Built an **end-to-end customer churn analysis project** to identify key drivers of customer attrition and provide actionable business insights using Python, SQL, and Power BI.
